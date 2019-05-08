@@ -1,0 +1,8 @@
+body{
+	background-color: hsl(25, 96%, 88%);
+}
+#sparkle {
+	font-size: 15px;
+	margin-left: 47vw;
+	margin-top: vh;
+}
